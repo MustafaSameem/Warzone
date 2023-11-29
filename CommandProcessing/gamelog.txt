@@ -1,0 +1,7 @@
+Command issued: loadmap<sample.map>
+Command issued: validatemap
+Command issued: addplayer<p1>
+Command issued: addplayer<p2>
+Command issued: gamestart
+Command issued: gameend
+Command issued: quit

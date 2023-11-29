@@ -1,0 +1,17 @@
+Order effect: advance
+Order effect: advance
+Order effect: negotiate
+Order effect: advance
+Order effect: blockade
+Inserted order advance into list.
+Inserted order negotiate into list.
+Inserted order blockade into list.
+GameEngine State: start
+GameEngine State: map_loaded
+GameEngine State: map_validated
+GameEngine State: players_added
+GameEngine State: assign_reinforcement
+GameEngine State: issue_orders
+GameEngine State: execute_orders
+GameEngine State: execute_orders
+GameEngine State: win

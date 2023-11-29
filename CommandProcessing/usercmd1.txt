@@ -1,0 +1,16 @@
+loadmap sample.map
+quit
+validatemap
+addplayer p1
+addplayer p2
+gamestart
+addplayer
+gameend
+loadmap
+replay
+loadmap sample1.map
+validatemap
+addplayer p3
+gamestart
+gameend
+quit
